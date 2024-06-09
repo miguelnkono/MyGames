@@ -140,6 +140,11 @@ public:
 
     void Draw()
     {
+        /*for(int i=0; i<cellCount; i++)
+        {
+            DrawLineV();
+        }*/
+        //DrawLineV(Vector2{1, 2}, Vector2{2, 1});
         food.Draw();
         snake.Draw();
     }

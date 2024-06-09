@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712283470 source:c:\game\splile-lines\spline-lines\main.cpp
+	<iostream>
+	<vector>
+	<raylib.h>
+	<raygui.h>
+

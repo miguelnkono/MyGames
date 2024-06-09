@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1710433680 source:c:\game\tetris\tetris-game\main.cpp
+	<raylib.h>
+	<iostream>
+	"simulation.hpp"
+
+1710433680 c:\game\tetris\tetris-game\simulation.hpp
+	"grid.hpp"
+
+1710433680 c:\game\tetris\tetris-game\grid.hpp
+	<vector>
+
+1710433680 source:c:\game\tetris\tetris-game\grid.cpp
+	<raylib.h>
+	"grid.hpp"
+
+1710433680 source:c:\game\tetris\tetris-game\simulation.cpp
+	<vector>
+	<utility>
+	"simulation.hpp"
+

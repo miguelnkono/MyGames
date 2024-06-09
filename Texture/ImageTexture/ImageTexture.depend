@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712535745 source:c:\game\texture\imagetexture\main.cpp
+	<raylib.h>
+	<iostream>
+
